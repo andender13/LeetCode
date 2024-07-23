@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class letter_Combinations_of_a_Phone_Number
+public class LetterCombinationsOfPhoneNumber
 {
     static public List<String> Letter_Combinations_of_a_Phone_Number(String digits)
     {
