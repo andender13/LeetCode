@@ -1,4 +1,5 @@
-import java.lang.reflect.Array;
+package random;
+
 import java.util.Arrays;
 
 public class RemoveDuplicates {

@@ -1,5 +1,4 @@
-import java.util.Arrays;
-import java.util.List;
+package random;
 
 public class Main {
     public static void main(String[] args) {
